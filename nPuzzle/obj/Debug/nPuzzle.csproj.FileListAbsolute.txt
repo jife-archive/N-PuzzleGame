@@ -1,0 +1,66 @@
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\bin\Debug\nPuzzle.exe.config
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\bin\Debug\nPuzzle.exe
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\bin\Debug\nPuzzle.pdb
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Properties.Resources.resources
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.GenerateResource.Cache
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.exe
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.pdb
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubTempFolder\Assignment3\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Puzzle.resources
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\bin\Debug\nPuzzle.exe.config
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\bin\Debug\nPuzzle.exe
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\bin\Debug\nPuzzle.pdb
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csprojAssemblyReference.cache
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Properties.Resources.resources
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Puzzle.resources
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.GenerateResource.cache
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.exe
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.pdb
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Menu.resources
+C:\Users\home\Desktop\nPuzzle-master (1)\nPuzzle-master\nPuzzle\nPuzzle\obj\Debug\nPuzzle.StartMenu.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csprojAssemblyReference.cache
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Menu.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Puzzle.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.StartMenu.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.GenerateResource.cache
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.exe.config
+C:\Users\home\Desktop\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.exe
+C:\Users\home\Desktop\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.pdb
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.Properties.Resources.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.exe
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.pdb
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.rank.resources
+C:\Users\home\Desktop\nPuzzle\nPuzzle\obj\Debug\nPuzzle.tile.resources
+D:\바탕화면\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.exe.config
+D:\바탕화면\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.exe
+D:\바탕화면\nPuzzle\nPuzzle\bin\Debug\DoJiPuzzle.pdb
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csprojAssemblyReference.cache
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Menu.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.Properties.Resources.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.puzzle.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.rank.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.StartMenu.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.tile.resources
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.GenerateResource.cache
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.csproj.CoreCompileInputs.cache
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.exe
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\DoJiPuzzle.pdb
+D:\바탕화면\nPuzzle\nPuzzle\obj\Debug\nPuzzle.Solution.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\bin\Debug\DoJiPuzzle.exe.config
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\bin\Debug\DoJiPuzzle.exe
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\bin\Debug\DoJiPuzzle.pdb
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.csprojAssemblyReference.cache
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.Menu.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\DoJiPuzzle.Properties.Resources.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.puzzle.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.rank.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.Solution.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.StartMenu.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.tile.resources
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.csproj.GenerateResource.cache
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\nPuzzle.csproj.CoreCompileInputs.cache
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\DoJiPuzzle.exe
+D:\바탕화면\프로그래밍\과제\어드벤처\3단계 팀_도지\팀도지_3단계소스코드\nPuzzle\obj\Debug\DoJiPuzzle.pdb
